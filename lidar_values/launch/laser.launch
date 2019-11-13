@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="lidar_values" type="scan_control.py" name="scan_values" output="screen">
+	</node>
+</launch>
